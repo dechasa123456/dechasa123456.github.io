@@ -1,0 +1,108 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Mar 2025 08:00:07 at https://kits1.themescamp.com/archo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kits1.themescamp.com/archo/ -O1 "C:\My Web Sites\hotels" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:00:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/xmlrpc.php (from https://kits1.themescamp.com/archo/)
+08:00:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/xmlrpc.php?rsd (from https://kits1.themescamp.com/archo/)
+08:00:46	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://kits1.themescamp.com/archo/)
+08:01:53	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=header-01
+08:01:53	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=header-01 to https://kits1.themescamp.com/archo/template-kit/archo-header-block/
+08:01:53	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=about-01
+08:01:53	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=about-01 to https://kits1.themescamp.com/archo/template-kit/archo-about-block/
+08:01:53	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=portfolio-01
+08:01:53	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=portfolio-01 to https://kits1.themescamp.com/archo/template-kit/archo-portfolio-block/
+08:01:57	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=testimonial-01
+08:01:57	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=testimonial-01 to https://kits1.themescamp.com/archo/template-kit/archo-testimonial-block-1/
+08:01:57	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=testimonial-02
+08:01:57	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=testimonial-02 to https://kits1.themescamp.com/archo/template-kit/archo-testimonial-block/
+08:01:57	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=stats
+08:01:57	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=stats to https://kits1.themescamp.com/archo/template-kit/archo-stats-block/
+08:01:59	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=pricing
+08:01:59	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=pricing to https://kits1.themescamp.com/archo/template-kit/archo-pricing-block/
+08:02:02	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=footer
+08:02:02	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=footer to https://kits1.themescamp.com/archo/template-kit/archo-footer-block/
+08:02:02	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=contact
+08:02:02	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=contact to https://kits1.themescamp.com/archo/template-kit/archo-contact-block/
+08:02:03	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?envato_tk_templates=blog-list
+08:02:03	Warning: 	File has moved from https://kits1.themescamp.com/archo/?envato_tk_templates=blog-list to https://kits1.themescamp.com/archo/template-kit/archo-blog-list/
+08:02:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-content/uploads/sites/2/2022/07/h44.jpg (from https://kits1.themescamp.com/archo/)
+08:02:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/xmlrpc.php (from https://kits1.themescamp.com/archo/)
+08:02:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/images/close.png (from https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/css/youtubepopup.css?ver=20200508)
+08:02:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-content/uploads/sites/2/2020/11/S7-2.jpg (from https://kits1.themescamp.com/archo/wp-content/uploads/sites/2/elementor/css/post-3130.css?ver=1719144866)
+08:02:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/xmlrpc.php?rsd (from https://kits1.themescamp.com/archo/)
+08:02:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-content/uploads/sites/2/elementor/css/post-103.css?ver=1719172942 (from https://kits1.themescamp.com/archo/home-01/)
+08:02:10	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=103
+08:02:10	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=103 to https://kits1.themescamp.com/archo/home-01/
+08:02:11	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=921
+08:02:11	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=921 to https://kits1.themescamp.com/archo/home-02/
+08:02:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkits1.themescamp.com%2Farcho%2Fhome-02%2F&format=xml (from https://kits1.themescamp.com/archo/home-02/)
+08:02:19	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=1066
+08:02:19	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=1066 to https://kits1.themescamp.com/archo/home-3/
+08:02:20	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=2818
+08:02:20	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=2818 to https://kits1.themescamp.com/archo/home-4/
+08:02:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkits1.themescamp.com%2Farcho%2Fhome-4%2F&format=xml (from https://kits1.themescamp.com/archo/home-4/)
+08:02:20	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=3401
+08:02:20	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=3401 to https://kits1.themescamp.com/archo/template-kit/archo-showcase-parallax-block/
+08:02:20	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=337
+08:02:20	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=337 to https://kits1.themescamp.com/archo/about/
+08:02:21	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=577
+08:02:21	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=577 to https://kits1.themescamp.com/archo/services/
+08:02:21	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=568
+08:02:21	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=568 to https://kits1.themescamp.com/archo/team/
+08:02:21	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=557
+08:02:21	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=557 to https://kits1.themescamp.com/archo/faq/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=586
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=586 to https://kits1.themescamp.com/archo/coming-soon/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=618
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=618 to https://kits1.themescamp.com/archo/pricing/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=590
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=590 to https://kits1.themescamp.com/archo/404-2/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=630
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=630 to https://kits1.themescamp.com/archo/minimal/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=3042
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=3042 to https://kits1.themescamp.com/archo/template-kit/archo-projects/
+08:02:22	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=2973
+08:02:22	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=2973 to https://kits1.themescamp.com/archo/template-kit/archo-project-detail/
+08:02:27	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=622
+08:02:27	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=622 to https://kits1.themescamp.com/archo/template-kit/archo-team-block/
+08:02:38	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=837
+08:02:38	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=837 to https://kits1.themescamp.com/archo/2020/07/02/what-its-like-to-be-an-interior-designer/
+08:02:38	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=346
+08:02:38	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=346 to https://kits1.themescamp.com/archo/contact-us/
+08:02:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://kits1.themescamp.com/archo/xmlrpc.php (from https://kits1.themescamp.com/archo/)
+08:02:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/images/close.png (from https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/css/youtubepopup.css?ver=20200508)
+08:02:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://kits1.themescamp.com/archo/xmlrpc.php?rsd (from https://kits1.themescamp.com/archo/)
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=835
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=835 to https://kits1.themescamp.com/archo/2020/07/02/five-things-you-should-know-about-modern-furniture/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=833
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=833 to https://kits1.themescamp.com/archo/2020/07/02/in-good-taste-mark-finlay-architects-and-interiors/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=353
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=353 to https://kits1.themescamp.com/archo/template-kit/archo-header-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=371
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=371 to https://kits1.themescamp.com/archo/template-kit/archo-about-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=359
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=359 to https://kits1.themescamp.com/archo/template-kit/archo-portfolio-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=362
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=362 to https://kits1.themescamp.com/archo/template-kit/archo-testimonial-block-1/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=368
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=368 to https://kits1.themescamp.com/archo/template-kit/archo-testimonial-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=625
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=625 to https://kits1.themescamp.com/archo/template-kit/archo-stats-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=609
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=609 to https://kits1.themescamp.com/archo/template-kit/archo-pricing-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=229
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=229 to https://kits1.themescamp.com/archo/template-kit/archo-footer-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=612
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=612 to https://kits1.themescamp.com/archo/template-kit/archo-contact-block/
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=935
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=935 to https://kits1.themescamp.com/archo/template-kit/archo-blog-list/
+08:02:41	Error: 	"Internal Server Error" (500) after 2 retries at link https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/images/close.png (from https://kits1.themescamp.com/archo/wp-content/plugins/better-elementor-addons/assets/css/youtubepopup.css?ver=20200508)
+08:02:41	Warning: 	Moved Permanently for https://kits1.themescamp.com/archo/?p=1153
+08:02:41	Warning: 	File has moved from https://kits1.themescamp.com/archo/?p=1153 to https://kits1.themescamp.com/archo/2020/06/21/hello-world-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 34 seconds : 424 links scanned, 367 files written (25542264 bytes overall) [16295216 bytes received at 105813 bytes/sec], 12903920 bytes transferred using HTTP compression in 254 files, ratio 26%, 23.5 requests per connection
+(4 errors, 93 warnings, 0 messages)
